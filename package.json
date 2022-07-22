@@ -1,0 +1,19 @@
+{
+  "name": "hola-mundo",
+  "version": "1.0.0",
+  "description": "este es mi primer proyecto de Javascript con node en open Bootcamp",
+  "main": "index.js",
+  "scripts": {
+    "Ejercicio": "node ejercicio01.js",
+    "start": "node index.js",
+    "saludar": "node hola_mi_primer_ejercicio.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "holamundo",
+    "first",
+    "project"
+  ],
+  "author": "Ivan Castro",
+  "license": "ISC"
+}
